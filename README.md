@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruhan Ahmad</h1>
-<h3 align="center">A passionate Data Scientist/Engineer/Analyst from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer/Mobile Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ruhanahmad" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ruhanahmad01" target="blank"><img src="https://img.shields.io/twitter/follow/ruhanahmad01?logo=twitter&style=for-the-badge" alt="ruhanahmad01" /></a> </p>
 
-- 🔭 I’m currently working on [Data Science with runtime Data](https://github.com/ruhanahmad/DataScience/tree/master/Api_fetching)
+- 🔭 I’m currently working on [Banking Mobile Application]([(https://github.com/ruhanahmad/BankingApp)])
 
-- 🌱 I’m currently learning **Data Warehousing and EDA with presentation**
+- 🌱 I’m currently learning *Cloud Integratio with Flutter Mobile apps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruhanahmad/DataScience](https://github.com/ruhanahmad/DataScience)
+- 👨‍💻 All of my projects are available at [https://github.com/ruhanahmad/](https://github.com/ruhanahmad/)
 
-- 💬 Ask me about **Data Science Projects**
+- 💬 Ask me about **Flutter Projects Projects**
 
 - 📫 How to reach me **ranaruhan123@gmail.com**
 
